@@ -6,6 +6,7 @@ SINOPSIS: Un importante periódico de EEUU destapa crímenes del nuevo president
 
 ![NUESTRO PERSONAJE (1)](https://github.com/user-attachments/assets/dcd120b9-c980-43ab-ae14-77656ae4bcef)
 
+¿Qué personaje eres?: (https://app.Lumi.education/run/mgJaWi)
 
 
 PARTICIPANTES: Laura Faya Millán, Hugo Olivencia Yáñez, Paula Ponz Roldán y Andrea Puertas Jiménez. 
