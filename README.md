@@ -38,14 +38,37 @@ Un importante periódico de EEUU destapa crímenes del nuevo presidente de Estad
 ![](img-nobody.png)
 
 
-
 ### Historia
 
 ### TagLine
 
-
 ### Conflicto 
-
 
 ### Productos
 - Quiz de Personalidad 
+
+### Productos
+- Quiz de Personalidad 
+
+  - ¿QUÉ PERSONAJE ERES?: https://app.lumi.education/run/mgJaWi
+    
+- Banner/Teaser:  (enlace) 
+
+
+- Storytelling: (enlace) 
+
+
+
+
+### Conclusiones/Valoración del equipo
+
+------
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
+
+<!---
+Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
+-->
+
+Febrero, 202X
+
+![](https://github.com/mgea/CRIAv/blob/main/logo_criav75.png)
