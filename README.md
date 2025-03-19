@@ -29,3 +29,23 @@ Tipo/Género:
 
 ## SINOPSIS 
 Un importante periódico de EEUU destapa crímenes del nuevo presidente de Estados Unidos, como fraude electoral, violación, colaboración con narcotraficantes. Al hacerse pública la investigación, los periodistas enfrentan una persecución y presión: amenazas de muerte, espionaje y presiones legales por parte del gobierno y otros terceros. Mientras la redacción lucha por seguir adelante, uno de los reporteros sigue la investigación por su cuenta. La trama se centra en la lucha por exponer la corrupción y la impunidad del presidente, mientras arriesgan sus vidas en defensa de la verdad.
+
+### Personaje
+
+![Imagen de WhatsApp 2025-03-19 a las 12 11 28_acbdfe82](https://github.com/user-attachments/assets/df63d77b-18ab-4baf-80a0-54abb5e3778f)
+
+
+![](img-nobody.png)
+
+
+
+### Historia
+
+### TagLine
+
+
+### Conflicto 
+
+
+### Productos
+- Quiz de Personalidad 
