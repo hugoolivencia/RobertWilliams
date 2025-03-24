@@ -34,6 +34,8 @@ Un importante periódico de EEUU destapa crímenes del nuevo presidente de Estad
 
 ![Imagen de WhatsApp 2025-03-19 a las 12 11 28_acbdfe82](https://github.com/user-attachments/assets/df63d77b-18ab-4baf-80a0-54abb5e3778f)
 
+### Personaje secundario 
+ ![Imagen de WhatsApp 2025-03-24 a las 18 55 37_d8edf975](https://github.com/user-attachments/assets/b5e4479f-2c68-422a-9b01-87be1fc2999c)
 
 ![](img-nobody.png)
 
