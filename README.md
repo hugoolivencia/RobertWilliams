@@ -53,9 +53,8 @@ Un importante periódico de EEUU destapa crímenes del nuevo presidente de Estad
 
 - Scape Room: Robert Williams: https://arcweave.com/app/project/Vo6mX4jExy 
     
-- Banner/Teaser:  (enlace) 
-
-
+- Banner/Teaser Figma, ¨Robert Williams: La Última Verdad": https://www.figma.com/proto/6KnuaG67NnCtUVNf7522G3/Robert-Williams?node-id=9-18&starting-point-node-id=9%3A18
+ 
 - Storytelling: (enlace) 
 
 
