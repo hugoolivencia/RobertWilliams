@@ -55,7 +55,7 @@ Un importante periódico de EEUU destapa crímenes del nuevo presidente de Estad
     
 - Banner/Teaser Figma, ¨Robert Williams: La Última Verdad": https://www.figma.com/proto/6KnuaG67NnCtUVNf7522G3/Robert-Williams?node-id=9-18&starting-point-node-id=9%3A18
  
-- Storytelling: https://hugoolivencia.itch.io/robert-williams-la-ultima-verdad
+- Storytelling: ¨Robert Williams: La última Verdad¨: https://hugoolivencia.itch.io/robert-williams-la-ultima-verdad
 
 
 
